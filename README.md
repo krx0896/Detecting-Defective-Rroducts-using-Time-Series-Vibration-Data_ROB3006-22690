@@ -40,11 +40,11 @@ D. 모델 비교
 - 딥러닝 모델의 노드 수, dropout 값, 은닉층 활성화 함수, 출력층 활성화 함수, 손실 함수, 최적화 함수, epochs, batch size 하이퍼파라미터를 조절하여 모델들을 비교
 - 머신러닝 기법들은 GridSearchCV를 사용하여 하이퍼파라미터를 설정함
 
-## 3.	Results 
+## 2.	Results 
 - 평가지표: AUC-Score
 - 최적 모델: 딥러닝 모델
 - AUC-Score: 0.9632
 
-## 4. References
+## 3. References
 - A Study of Vibration and Current Data Characteristic Analysis for Motor Mechanical Fault Level Determination by Deep Learning(호서대학교)
 - Condition Monitoring and Fault Diagnosis of Electrical Motors(S. Nandi)
