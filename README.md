@@ -5,10 +5,9 @@
 ### 📚 Course
 기계학습론(ROB3006-22690) </br>
 ### 🗓️ Date 
-Project term : 2023.05.17 ~ 2023.06.13 </br>
-Presentation Date : 2023.06.14 </br>
+Project term : 2023.11.17 ~ 2023.12.13 </br>
 ### :man: Professor 
-  한양대학교 ERICA, 산업경영공학과 오요셉 교수님 
+  한양대학교 ERICA, 로봇공학과 윤종완 교수님 
 ### 👥 Team member 
   * 산업경영공학과 김윤성
   * 로봇공학과 김민표
