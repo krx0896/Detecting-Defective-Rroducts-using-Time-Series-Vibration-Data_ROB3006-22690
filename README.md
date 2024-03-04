@@ -45,6 +45,6 @@ D. 모델 비교
 - 최적 모델: 딥러닝 모델
 - AUC-Score: 0.9632
 
-## 3. References
+## 4. References
 - A Study of Vibration and Current Data Characteristic Analysis for Motor Mechanical Fault Level Determination by Deep Learning(호서대학교)
 - Condition Monitoring and Fault Diagnosis of Electrical Motors(S. Nandi)
